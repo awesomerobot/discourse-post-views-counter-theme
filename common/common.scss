@@ -1,8 +1,10 @@
 .post-views-counter {
-  color: $primary-medium;
-  margin-right: 0.5em;
+  display: inline-flex;
+  align-items: center;
+  color: var(--primary-medium);
+  margin-right: var(--space-2);
 
   .d-icon {
-    margin-left: 4px;
+    margin-left: var(--space-1);
   }
 }

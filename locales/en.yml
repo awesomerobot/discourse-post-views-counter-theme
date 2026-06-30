@@ -1,2 +1,4 @@
 en:
-  views: "{{num}} view(s)"
+  views:
+    one: "%{count} view"
+    other: "%{count} views"
